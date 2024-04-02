@@ -1,0 +1,2 @@
+# chatgpt
+This repo includes materials to survey about knowledge, use, and perceptions of ChatGPT and similar technologies in higher ed. I conducted the survey while working at Simmons University as Senior Research Analyst. 
